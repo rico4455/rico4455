@@ -1,21 +1,14 @@
 # Rico
 
-Building web experiences with Python and JavaScript.
+I build things for the web. Mostly Python and JavaScript.
 
-## Featured project — theblackbox
+### Current project
 
-A cinema-inspired web app bringing together film and TV discovery, viewing history, episode navigation, and watch-together rooms.
+**[theblackbox](https://github.com/UltimateArrow49/Moviesite_clean)**  
+A cinema-inspired app for film discovery, viewing history, and watching together.
 
-[Explore the project](https://github.com/UltimateArrow49/Moviesite_clean) · [Visit the live app](https://theblackbox.172-239-96-41.sslip.io/)
+[Code](https://github.com/UltimateArrow49/Moviesite_clean) · [Setup guide](https://github.com/UltimateArrow49/Moviesite_clean/blob/main/SETUP.md)
 
-| Interface | Backend | Data & hosting |
-| --- | --- | --- |
-| JavaScript, HTML, CSS | Python, Flask, Gunicorn | SQLite, Nginx, Linux |
+---
 
-### Current focus
-
-- Improving playback source selection and recovery
-- Refining mobile navigation and the viewing experience
-- Keeping setup, deployment, and maintenance documentation useful
-
-This profile highlights my current work. Earlier projects are preserved privately.
+`Python`  `JavaScript`  `Flask`  `SQLite`  `Nginx`
